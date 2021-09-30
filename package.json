@@ -1,0 +1,22 @@
+{
+  "name": "@willikinsabreu/is-even",
+  "version": "1.0.0",
+  "description": "is this number even?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillikinsM/is-even.git"
+  },
+  "keywords": [
+    "even"
+  ],
+  "author": "Willikins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillikinsM/is-even/issues"
+  },
+  "homepage": "https://github.com/WillikinsM/is-even#readme"
+}
